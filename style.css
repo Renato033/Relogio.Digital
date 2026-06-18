@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+body{
+    background: #222;
+    color: #fff;
+    display: flex;
+    justify-content: center;align-items: center;
+    height: 100vh;
+}
+.relogio{
+    display: flex;
+    gap: 43px;
+}
+span{
+    font-size: 30px;
+    background: #0a0909;
+    padding: 40px 20px; 
+    border-radius: 4px;
+}
